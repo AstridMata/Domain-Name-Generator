@@ -9,3 +9,6 @@ for (let x = 0; x < pronoun.length; x++) {
         }
     }
 }
+
+// para ver en la terminal
+//git node app.js
